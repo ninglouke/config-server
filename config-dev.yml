@@ -1,2 +1,4 @@
 logging:
   level: debug
+config:
+  info: xxxx
